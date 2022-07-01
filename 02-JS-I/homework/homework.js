@@ -30,14 +30,10 @@ function devolverString(str) {
   // Tu código: 
   function devolverString(str)
 
-
-  var  OtherFunction = devolverString
-
+  var  OtherFunction = 'str'; 
 
   return OtherFunction;
  
-
-   
 }
 
 function suma(x, y) {
