@@ -28,6 +28,7 @@ const nuevoModulo = 21 % 5 ==1;
 function devolverString(str) {
   // "Return" la string provista: str
   // Tu código: 
+  function devolverString(str)
 
 
   var  OtherFunction = devolverString
@@ -44,6 +45,9 @@ function suma(x, y) {
   // Suma "x" e "y" juntos y devuelve el valor
   // Tu código:
   
+var resultado = x + y;
+
+return resultado; 
 
 
 
