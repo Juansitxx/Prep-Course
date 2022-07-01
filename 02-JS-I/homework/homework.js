@@ -28,11 +28,7 @@ const nuevoModulo = 21 % 5 ==1;
 function devolverString(str) {
   // "Return" la string provista: str
   // Tu código: 
-  function devolverString(str)
-
-  var  OtherFunction = 'str'; 
-
-  return OtherFunction;
+  
  
 }
 
@@ -41,11 +37,7 @@ function suma(x, y) {
   // Suma "x" e "y" juntos y devuelve el valor
   // Tu código:
   
-var resultado = x + y;
-
-return resultado; 
-
-
+return suma = x + y;
 
 }
 
@@ -53,11 +45,18 @@ function resta(x, y) {
   // Resta "y" de "x" y devuelve el valor
   // Tu código:
   
+return resta = x - y;
+
+
 }
 
-function multiplica(x, y) {
+function multiplica(y, x) {
   // Multiplica "x" por "y" y devuelve el valor
   // Tu código:
+
+ return multiplica = x * y;
+
+
   
 }
 
@@ -65,6 +64,9 @@ function divide(x, y) {
   // Divide "x" entre "y" y devuelve el valor
   // Tu código:
   
+return divide = x / y;
+
+
 }
 
 function sonIguales(x, y) {
